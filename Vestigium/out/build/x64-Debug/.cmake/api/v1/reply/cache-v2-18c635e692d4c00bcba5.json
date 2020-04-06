@@ -695,7 +695,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "CodeJam2020"
+			"value" : "Vestigium"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER",
@@ -1039,6 +1039,30 @@
 		},
 		{
 			"name" : "CodeJam2020_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "F:/Projects/CodeJam2020/Vestigium"
+		},
+		{
+			"name" : "Vestigium_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "F:/Projects/CodeJam2020/Vestigium/out/build/x64-Debug"
+		},
+		{
+			"name" : "Vestigium_SOURCE_DIR",
 			"properties" : 
 			[
 				{
